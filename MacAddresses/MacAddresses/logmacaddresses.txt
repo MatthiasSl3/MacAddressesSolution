@@ -1,0 +1,75 @@
+NB-SCHIEHLENM Found 14 Macaddresses:
+Macaddress 1: Adapter: Ethernet description Intel(R) 82579LM Gigabit Network Connection / MAC: 502690A323F5
+Macaddress 2: Adapter: Wireless80211 description Intel(R) Centrino(R) Advanced-N 6205 / MAC: 8C705A354B94
+Macaddress 3: Adapter: Wwanpp description Sierra Wireless Mobile Broadband Network Adapter / MAC: 00A0C6000000
+Macaddress 4: Adapter: Wireless80211 description Microsoft Virtual WiFi Miniport Adapter #2 / MAC: 8C705A354B95
+Macaddress 5: Adapter: Wireless80211 description Microsoft Virtual WiFi Miniport Adapter / MAC: 8C705A354B95
+Macaddress 6: Adapter: Ethernet description Bluetooth-Gerät (PAN) / MAC: C01885A7E84A
+Macaddress 7: Adapter: Loopback description Software Loopback Interface 1 / MAC: 
+Macaddress 8: Adapter: Tunnel description Teredo Tunneling Pseudo-Interface / MAC: 00000000000000E0
+Macaddress 9: Adapter: Tunnel description Microsoft-ISATAP-Adapter #2 / MAC: 00000000000000E0
+Macaddress 10: Adapter: Tunnel description Microsoft-ISATAP-Adapter #5 / MAC: 00000000000000E0
+Macaddress 11: Adapter: Tunnel description Microsoft-ISATAP-Adapter #7 / MAC: 00000000000000E0
+Macaddress 12: Adapter: Tunnel description Microsoft-ISATAP-Adapter / MAC: 00000000000000E0
+Macaddress 13: Adapter: Tunnel description Microsoft-ISATAP-Adapter #6 / MAC: 00000000000000E0
+Macaddress 14: Adapter: Tunnel description Microsoft-ISATAP-Adapter #9 / MAC: 00000000000000E0
+NB-SCHIEHLENM Found 14 Macaddresses:
+Macaddress 1: Adapter: Ethernet description Intel(R) 82579LM Gigabit Network Connection / MAC: 502690A323F5
+Macaddress 2: Adapter: Wireless80211 description Intel(R) Centrino(R) Advanced-N 6205 / MAC: 8C705A354B94
+Macaddress 3: Adapter: Wwanpp description Sierra Wireless Mobile Broadband Network Adapter / MAC: 00A0C6000000
+Macaddress 4: Adapter: Wireless80211 description Microsoft Virtual WiFi Miniport Adapter #2 / MAC: 8C705A354B95
+Macaddress 5: Adapter: Wireless80211 description Microsoft Virtual WiFi Miniport Adapter / MAC: 8C705A354B95
+Macaddress 6: Adapter: Ethernet description Bluetooth-Gerät (PAN) / MAC: C01885A7E84A
+Macaddress 7: Adapter: Loopback description Software Loopback Interface 1 / MAC: 
+Macaddress 8: Adapter: Tunnel description Teredo Tunneling Pseudo-Interface / MAC: 00000000000000E0
+Macaddress 9: Adapter: Tunnel description Microsoft-ISATAP-Adapter #2 / MAC: 00000000000000E0
+Macaddress 10: Adapter: Tunnel description Microsoft-ISATAP-Adapter #5 / MAC: 00000000000000E0
+Macaddress 11: Adapter: Tunnel description Microsoft-ISATAP-Adapter #7 / MAC: 00000000000000E0
+Macaddress 12: Adapter: Tunnel description Microsoft-ISATAP-Adapter / MAC: 00000000000000E0
+Macaddress 13: Adapter: Tunnel description Microsoft-ISATAP-Adapter #6 / MAC: 00000000000000E0
+Macaddress 14: Adapter: Tunnel description Microsoft-ISATAP-Adapter #9 / MAC: 00000000000000E0
+NB-SCHIEHLENM Found 14 Macaddresses:
+Macaddress 1: Adapter: Ethernet description Intel(R) 82579LM Gigabit Network Connection / MAC: 502690A323F5
+Macaddress 2: Adapter: Wireless80211 description Intel(R) Centrino(R) Advanced-N 6205 / MAC: 8C705A354B94
+Macaddress 3: Adapter: Wwanpp description Sierra Wireless Mobile Broadband Network Adapter / MAC: 00A0C6000000
+Macaddress 4: Adapter: Wireless80211 description Microsoft Virtual WiFi Miniport Adapter #2 / MAC: 8C705A354B95
+Macaddress 5: Adapter: Wireless80211 description Microsoft Virtual WiFi Miniport Adapter / MAC: 8C705A354B95
+Macaddress 6: Adapter: Ethernet description Bluetooth-Gerät (PAN) / MAC: C01885A7E84A
+Macaddress 7: Adapter: Loopback description Software Loopback Interface 1 / MAC: 
+Macaddress 8: Adapter: Tunnel description Teredo Tunneling Pseudo-Interface / MAC: 00000000000000E0
+Macaddress 9: Adapter: Tunnel description Microsoft-ISATAP-Adapter #2 / MAC: 00000000000000E0
+Macaddress 10: Adapter: Tunnel description Microsoft-ISATAP-Adapter #5 / MAC: 00000000000000E0
+Macaddress 11: Adapter: Tunnel description Microsoft-ISATAP-Adapter #7 / MAC: 00000000000000E0
+Macaddress 12: Adapter: Tunnel description Microsoft-ISATAP-Adapter / MAC: 00000000000000E0
+Macaddress 13: Adapter: Tunnel description Microsoft-ISATAP-Adapter #6 / MAC: 00000000000000E0
+Macaddress 14: Adapter: Tunnel description Microsoft-ISATAP-Adapter #9 / MAC: 00000000000000E0
+DE1-DEV-TFS-B2 Found 4 Macaddresses:
+Macaddress 1: Adapter: Ethernet description vmxnet3 Ethernet Adapter #2 / MAC: 0050568544EB
+Macaddress 2: Adapter: Loopback description Software Loopback Interface 1 / MAC: 
+Macaddress 3: Adapter: Tunnel description Microsoft-ISATAP-Adapter / MAC: 00000000000000E0
+Macaddress 4: Adapter: Tunnel description Teredo Tunneling Pseudo-Interface / MAC: 00000000000000E0
+DE1-DEV-TFS-B2 Found 4 Macaddresses:
+Macaddress 1: Adapter: Ethernet description vmxnet3 Ethernet Adapter #2 / MAC: 0050568544EB
+Macaddress 2: Adapter: Loopback description Software Loopback Interface 1 / MAC: 
+Macaddress 3: Adapter: Tunnel description Microsoft-ISATAP-Adapter / MAC: 00000000000000E0
+Macaddress 4: Adapter: Tunnel description Teredo Tunneling Pseudo-Interface / MAC: 00000000000000E0
+DE1-DEV-TFS-B2 Found 4 Macaddresses:
+Macaddress 1: Adapter: Ethernet description vmxnet3 Ethernet Adapter #2 / MAC: 0050568544EB
+Macaddress 2: Adapter: Loopback description Software Loopback Interface 1 / MAC: 
+Macaddress 3: Adapter: Tunnel description Microsoft-ISATAP-Adapter / MAC: 00000000000000E0
+Macaddress 4: Adapter: Tunnel description Teredo Tunneling Pseudo-Interface / MAC: 00000000000000E0
+VM-LABQS-TFS-B1 Found 4 Macaddresses:
+Macaddress 1: Adapter: Ethernet description vmxnet3 Ethernet Adapter / MAC: 005056855946
+Macaddress 2: Adapter: Loopback description Software Loopback Interface 1 / MAC: 
+Macaddress 3: Adapter: Tunnel description Microsoft-ISATAP-Adapter / MAC: 00000000000000E0
+Macaddress 4: Adapter: Tunnel description Teredo Tunneling Pseudo-Interface / MAC: 00000000000000E0
+VM-LABQS-TFS-B1 Found 4 Macaddresses:
+Macaddress 1: Adapter: Ethernet description vmxnet3 Ethernet Adapter / MAC: 005056855946
+Macaddress 2: Adapter: Loopback description Software Loopback Interface 1 / MAC: 
+Macaddress 3: Adapter: Tunnel description Microsoft-ISATAP-Adapter / MAC: 00000000000000E0
+Macaddress 4: Adapter: Tunnel description Teredo Tunneling Pseudo-Interface / MAC: 00000000000000E0
+VM-LABQS-TFS-B1 Found 4 Macaddresses:
+Macaddress 1: Adapter: Ethernet description vmxnet3 Ethernet Adapter / MAC: 005056855946
+Macaddress 2: Adapter: Loopback description Software Loopback Interface 1 / MAC: 
+Macaddress 3: Adapter: Tunnel description Microsoft-ISATAP-Adapter / MAC: 00000000000000E0
+Macaddress 4: Adapter: Tunnel description Teredo Tunneling Pseudo-Interface / MAC: 00000000000000E0
